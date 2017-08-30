@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CoreExtensions.Assembly" Version="1.0.0" />
+    <PackageReference Include="CoreExtensions.ConcurrentDictionary" Version="1.0.0" />
+    <PackageReference Include="CoreExtensions.DateTime" Version="1.0.0" />
+    <PackageReference Include="CoreExtensions.FileInfo" Version="1.0.0" />
+    <PackageReference Include="CoreExtensions.String" Version="1.0.0" />
+    <PackageReference Include="CoreExtensions.Type" Version="1.0.0" />
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Physical" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>
