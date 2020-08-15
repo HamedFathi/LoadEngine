@@ -1,0 +1,1 @@
+Please use [DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) especially after these topics [Hot reloading plugins](https://github.com/natemcmaster/DotNetCorePlugins/issues/37) in .NET Core 3 and [LoadInMemory](https://github.com/natemcmaster/DotNetCorePlugins/pull/133)
